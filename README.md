@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ganesh Pawase</h1>
 <h3 align="center">A passionate frontend developer and DevOps</h3>
 
-- 🔭 I’m currently working on **MENTAL HEALTH AND WELL-BEING SURVEILLANCE, ASSESSMENT, AND TRACKING SOLUTION AMONG CHILDREN USING MACHINE LEARNING ALGORITHM.**
+- 🔭 I’m completed working on **MENTAL HEALTH AND WELL-BEING SURVEILLANCE, ASSESSMENT, AND TRACKING SOLUTION AMONG CHILDREN USING MACHINE LEARNING ALGORITHM.**
 
-- 🌱 I’m currently learning **DevOps, Cloud and S/W testing**
+- 🌱 I’m currently learning **DevOps, Cloud and Python**
 
 - 👨‍💻 All of my projects are available at [http://myportfolio95.s3-website.ap-south-1.amazonaws.com](http://myportfolio95.s3-website.ap-south-1.amazonaws.com)
 
