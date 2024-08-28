@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DevOps, Cloud and Python**
 
-- 👨‍💻 All of my projects are available at [http://myportfolio95.s3-website.ap-south-1.amazonaws.com](http://myportfolio95.s3-website.ap-south-1.amazonaws.com)
+- 👨‍💻 All of my projects are available at [https://ganeshpawase-portfolio.netlify.app/](https://ganeshpawase-portfolio.netlify.app/)
 
 - 💬 Ask me about **Cloud, Web Development**
 
