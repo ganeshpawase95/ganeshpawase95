@@ -3,7 +3,7 @@
 
 - 🔭 I’m completed working on **MENTAL HEALTH AND WELL-BEING SURVEILLANCE, ASSESSMENT, AND TRACKING SOLUTION AMONG CHILDREN USING MACHINE LEARNING ALGORITHM.**
 
-- 🌱 I’m currently learning **DevOps, Cloud and Python**
+- 🌱 I’m currently learning **Full-Stack Development**
 
 - 👨‍💻 All of my projects are available at [https://ganeshpawase-portfolio.netlify.app/](https://ganeshpawase.netlify.app/)
 
