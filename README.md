@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, Spring Boot, JavaScript and Java**
 
-- 👨‍💻 All of my projects are available at [https://ganeshpawase.netlify.app/](https://ganeshpawase.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://ganeshpawase.app/](https://ganeshpawaseportfolio.netlify.app/)
 
 - 💬 Ask me about **Cloud, Web Development**
 
