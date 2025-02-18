@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ganesh Pawase</h1>
 <h3 align="center">A passionate frontend and Full-Stack Development</h3>
 
-- 🔭 I’m currently working in **Nebulla Technology**
+- 🔭 I’m currently working in **Neptron Technology**
 
-- 🌱 I’m currently learning **React, Spring Boot, JavaScript and Java**
+- 🌱 I’m currently working **Angular, TypeScript, dotnet and SQL**
 
 - 👨‍💻 All of my projects are available at [https://ganeshpawase.app/](https://ganeshpawaseportfolio.netlify.app/)
 
